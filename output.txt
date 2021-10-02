@@ -1,0 +1,13 @@
+T,2,1025
+X,5,S,2,1025
+T,1,1025
+M,7,S,4,1025
+X,8,B,3,1050
+
+Current State of Order Book is as follows:
+S 4 1025
+S 10 1050
+S 1 1075
+
+B 30 975
+B 10 1000
